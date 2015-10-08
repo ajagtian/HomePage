@@ -1,0 +1,8 @@
+BEGIN:VCARD 
+VERSION:3.0
+FN:Akshay Jagtiani
+EMAIL;type=INTERNET;type=WORK;type=pref:ajagtian@usc.edu
+TITLE:STUDENT WORKER	
+
+ADR;TYPE=work:;;University Park Campus;
+END:VCARD
